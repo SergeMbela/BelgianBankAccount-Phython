@@ -17,7 +17,7 @@ scikit-learn>=1.0.0
 Installation
 
 Clone this repository:
-bashgit clone https://github.com/username/repository-name.git
+bashgit clone https://github.com/SergeMbela/BelgianBankAccount-Phython
 cd repository-name
 
 Create a virtual environment (optional but recommended):
