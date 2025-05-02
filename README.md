@@ -28,9 +28,9 @@ Install the required packages:
 bashpip install -r requirements.txt
 
 Launch Jupyter Notebook:
-bashjupyter notebook
-Or JupyterLab:
-bashjupyter lab
+bash jupyter notebook
+It will open a new browser (in your terminal copy the url with the yolen attached)
+To test: click on the button 'Start' and enjoy.
 
 
 License
